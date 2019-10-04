@@ -1,0 +1,7 @@
+book_filename: "bbrnotes"
+language:
+  ui:
+    chapter_name: "Chương "
+delete_merged_file: true
+output_dir: "docs"
+

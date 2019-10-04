@@ -1,0 +1,23 @@
+--- 
+title: "Sinh thống kê cho Nghiên cứu y sinh"
+author: "Phùng Khánh Lâm"
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+output:
+  bookdown::tufte_html_book:
+    toc: yes
+    css: toc.css
+documentclass: book
+bibliography: [book.bib, packages.bib]
+biblio-style: apalike
+link-citations: yes
+github-repo: orientrcu/bbrnotes
+description: "Nội dung chủ yếu dựa trên các tài liệu và ghi chép từ khoá học Biostatistics for Biomedical Research của Frank Harrell."
+---
+
+# Giới thiệu {-}
+
+Trang này ghi chép và dịch lại nội dung từ khoá học Biostatistics for Biomedical Research (BBR) do GS Frank Harrell tổ chức, cùng một số kinh nghiệm cá nhân và các tài liệu liên quan khác. 
+
+* Website chính thức của khoá học BBR: http://hbiostat.org/bbr/
+* Tài liệu chính thức của khoá học BBR: http://hbiostat.org/doc/bbr.pdf
